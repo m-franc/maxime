@@ -1,0 +1,11 @@
+commit : envoyer le fichier modifié
+push : le validé
+pull : commencer a bosser sur un fichier
+init : créer un nouveau repository : 
+add : ajouter un fichier
+
+
+ls : accéder au dossier 
+mkdir : créer un repertory
+
+rm -r : supprimer un repertory
